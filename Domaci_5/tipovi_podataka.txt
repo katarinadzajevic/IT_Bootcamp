@@ -1,0 +1,21 @@
+
+Prosti tipovi podataka:
+int - tip podatka u kome se skladiste celobrojne vrednosti
+double - tip podatka u kome se skladiste  vrednosti sa pokretnim zarezom
+float - tip podatka u kome se skladiste  vrednosti sa pokretnim zarezom, ali zauzima manje memorije od double tipa.
+char - tip podatka u kome se skladiste karakteri pojedinacno (slova, spec. karakteri)
+boolean - reprezentuje true/false vrednosti.
+String kao slozen tip podatka koji se ponasa kao primitivni tipovi, ali i kao objekat. On predstavlja sekvencu karaktera.
+
+Promenljive nam sluze da u njih upisemo neke vrednosti. One su kao fioke ili kontejneri u kojima skladistimo vrednosti.
+Primer: int broj - gde je 'int' tip promenljive broj, a 'broj' je naziv promenljive. Ovaj ispis nam govori da u promenljivu broj
+mozemo da upisemo samo celobrojne vrednosti.
+
+Petlje:
+
+For petlja - koristi se kada se unapred zna tacan broj ponavljanja nekog bloka naredbi.
+While petlju -  koristimo kada ne znamo unapred tacan broj njenog
+izvrsavanja, vec on obicno zavisi od ispunjenosti uslova unutar samog tela. Ona
+jednostavno ponavlja neki blok naredbi dok god je neki uslov tacan.
+Do-while petlja, koja se ponasa isto kao while petlja, osim sto ce se blok naredbi unutar do/while
+petlje izvrsiti barem jednom, bez obzira na tacnost uslova.
